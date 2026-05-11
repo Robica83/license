@@ -1,13 +1,1 @@
-{
-  "1234": {
-    "id": "1234",
-    "createdAt": "2026-05-11T18:32:32.809Z",
-    "expiresAt": "2026-06-10T18:32:32.809Z",
-    "used": true,
-    "hwid": "7987ECBB7D476A8E",
-    "blacklist": null,
-    "creator": "1314595437486805045",
-    "user": "82345324",
-    "paused": null
-  }
-}
+{}
