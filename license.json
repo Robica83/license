@@ -3,11 +3,11 @@
     "id": "1234",
     "createdAt": "2026-05-11T18:32:32.809Z",
     "expiresAt": "2026-06-10T18:32:32.809Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "7987ECBB7D476A8E",
     "blacklist": null,
     "creator": "1314595437486805045",
-    "user": null,
+    "user": "82345324",
     "paused": null
   }
 }
