@@ -9,5 +9,16 @@
     "creator": "Robica_1775343541971461400AECHHE",
     "user": "131459543748680504",
     "paused": null
+  },
+  "Test": {
+    "id": "Test",
+    "createdAt": "2026-05-11T17:37:58.769Z",
+    "expiresAt": "2026-06-10T17:37:58.769Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1334206843500888116",
+    "user": null,
+    "paused": null
   }
 }
