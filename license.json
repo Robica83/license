@@ -5,7 +5,7 @@
     "expiresAt": "2046-05-06T19:45:56.652Z",
     "used": true,
     "hwid": "F597428A5AEFC6DB599977D23612F220E75319F73AF11673D8B52F464E4D3657",
-    "blacklist": true,
+    "blacklist": null,
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
