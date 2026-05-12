@@ -9,5 +9,16 @@
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
+  },
+  "test": {
+    "id": "test",
+    "createdAt": "2026-05-12T11:55:47.518Z",
+    "expiresAt": "2026-06-11T11:55:47.518Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1334206843500888116",
+    "user": null,
+    "paused": null
   }
 }
