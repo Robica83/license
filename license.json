@@ -13,7 +13,7 @@
   "admin1": {
     "id": "admin1",
     "createdAt": "2026-05-12T14:20:41.091Z",
-    "expiresAt": "2026-06-11T14:20:41.091Z",
+    "expiresAt": "2036-06-08T14:20:41.091Z",
     "used": false,
     "hwid": null,
     "blacklist": null,
