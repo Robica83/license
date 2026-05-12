@@ -14,11 +14,11 @@
     "id": "admin1",
     "createdAt": "2026-05-12T14:20:41.091Z",
     "expiresAt": "2036-06-08T14:20:41.091Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "F597428A5AEFC6DB599977D23612F220E75319F73AF11673D8B52F464E4D3657",
     "blacklist": null,
     "creator": "1334206843500888116",
-    "user": null,
+    "user": "1482812424955363430",
     "paused": null
   }
 }
