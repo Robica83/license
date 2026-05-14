@@ -20,16 +20,5 @@
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
-  },
-  "andre": {
-    "id": "andre",
-    "createdAt": "2026-05-14T20:20:57.439Z",
-    "expiresAt": "2036-03-22T20:20:57.439Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "1314595437486805045",
-    "user": null,
-    "paused": null
   }
 }
