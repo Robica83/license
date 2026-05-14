@@ -25,11 +25,11 @@
     "id": "cioaraDVN4LIFE",
     "createdAt": "2026-05-14T20:45:56.000Z",
     "expiresAt": "2026-05-21T20:45:56.000Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "071E12B979505AB52F9920D1EAE545588048166FC5912A5468A4C1C3CFFB26B4",
     "blacklist": null,
     "creator": "1314595437486805045",
-    "user": null,
+    "user": "1428627518004658229",
     "paused": null
   }
 }
