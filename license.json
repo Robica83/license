@@ -1,4 +1,15 @@
 {
+  "777": {
+    "id": "777",
+    "createdAt": "2026-05-15T21:22:41.613Z",
+    "expiresAt": "2026-06-14T21:22:41.613Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1314595437486805045",
+    "user": null,
+    "paused": null
+  },
   "admin": {
     "id": "admin",
     "createdAt": "2026-05-12T14:17:58.448Z",
