@@ -1,1 +1,5 @@
-
+{
+  "a1": "https://github.com/user1/repo/releases/download/v1/app.exe",
+  "b7": "https://github.com/user2/repo/releases/download/v1/tool.exe",
+  "x9": "https://github.com/user3/repo/releases/download/v1/client.exe"
+}
