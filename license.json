@@ -31,5 +31,16 @@
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
+  },
+  "sarahqsh": {
+    "id": "sarahqsh",
+    "createdAt": "2026-05-17T17:57:29.483Z",
+    "expiresAt": "2026-06-16T17:57:29.483Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1314595437486805045",
+    "user": null,
+    "paused": null
   }
 }
