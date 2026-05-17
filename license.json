@@ -31,16 +31,5 @@
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
-  },
-  "cioaraDVN4LIFE": {
-    "id": "cioaraDVN4LIFE",
-    "createdAt": "2026-05-14T20:45:56Z",
-    "expiresAt": "2026-05-21T20:45:56Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "1314595437486805045",
-    "user": "",
-    "paused": null
   }
 }
