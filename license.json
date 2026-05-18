@@ -21,17 +21,6 @@
     "user": "1310322413262733412",
     "paused": null
   },
-  "admin1": {
-    "id": "admin1",
-    "createdAt": "2026-05-13T21:07:59.418Z",
-    "expiresAt": "2036-05-10T21:07:59.418Z",
-    "used": true,
-    "hwid": "F597428A5AEFC6DB599977D23612F220E75319F73AF11673D8B52F464E4D3657",
-    "blacklist": null,
-    "creator": "1314595437486805045",
-    "user": "1482812424955363430",
-    "paused": null
-  },
   "yuti": {
     "id": "yuti",
     "createdAt": "2026-05-18T15:15:03.147Z",
