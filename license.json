@@ -14,11 +14,11 @@
     "id": "admin",
     "createdAt": "2026-05-12T14:17:58.448Z",
     "expiresAt": "2036-06-08T14:17:58.448Z",
-    "used": true,
-    "hwid": "42A162404E2D04650911FFE45772BDD119CD597BC73D24A110785F174D9EB1A3",
+    "used": false,
+    "hwid": null,
     "blacklist": null,
     "creator": "1334206843500888116",
-    "user": "1505892514870329374",
+    "user": "",
     "paused": null
   },
   "yuti": {
