@@ -47,11 +47,11 @@
     "id": "kru1337",
     "createdAt": "2026-05-20T15:45:18.914Z",
     "expiresAt": "2026-06-20T15:45:18.914Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "7FA8A8381C93763819B7EB7CAAFB53989EDCCD57250D023C6026D888EABB2848",
     "blacklist": null,
     "creator": "1314595437486805045",
-    "user": null,
+    "user": "1482812424955363430",
     "paused": null
   }
 }
