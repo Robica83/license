@@ -1,17 +1,4 @@
 {
-  "admin": {
-    "id": "admin",
-    "username": null,
-    "password": null,
-    "createdAt": "2026-05-12T14:17:58.448Z",
-    "expiresAt": "2036-06-08T14:17:58.448Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "1334206843500888116",
-    "user": "",
-    "paused": null
-  },
   "Davidddxzs": {
     "id": "Davidddxzs",
     "username": null,
