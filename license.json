@@ -1,6 +1,8 @@
 {
   "777": {
     "id": "777",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-15T21:22:41.613Z",
     "expiresAt": "2036-06-11T21:22:41.613Z",
     "used": true,
@@ -12,6 +14,8 @@
   },
   "admin": {
     "id": "admin",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-12T14:17:58.448Z",
     "expiresAt": "2036-06-08T14:17:58.448Z",
     "used": false,
@@ -23,6 +27,8 @@
   },
   "yuti": {
     "id": "yuti",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-18T15:15:03.147Z",
     "expiresAt": "2036-02-15T15:15:03.147Z",
     "used": true,
@@ -34,6 +40,8 @@
   },
   "Davidddxzs": {
     "id": "Davidddxzs",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-18T16:14:14.741Z",
     "expiresAt": "2026-06-17T16:14:14.741Z",
     "used": false,
@@ -45,6 +53,8 @@
   },
   "kru1337": {
     "id": "kru1337",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-20T15:45:18.914Z",
     "expiresAt": "2026-06-20T15:45:18.914Z",
     "used": true,
@@ -60,11 +70,11 @@
     "password": "12345",
     "createdAt": "2026-05-21T16:36:48.011Z",
     "expiresAt": "2026-06-20T16:36:48.011Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "F597428A5AEFC6DB599977D23612F220E75319F73AF11673D8B52F464E4D3657",
     "blacklist": null,
     "creator": "1334206843500888116",
-    "user": null,
+    "user": "1482812424955363430",
     "paused": null
   }
 }
