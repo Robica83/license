@@ -53,18 +53,5 @@
     "creator": "1314595437486805045",
     "user": "1482812424955363430",
     "paused": null
-  },
-  "test": {
-    "id": "test",
-    "username": "test",
-    "password": "12345",
-    "createdAt": "2026-05-21T16:35:29.012Z",
-    "expiresAt": "2026-06-20T16:35:29.012Z",
-    "used": false,
-    "hwid": null,
-    "blacklist": null,
-    "creator": "1334206843500888116",
-    "user": null,
-    "paused": null
   }
 }
