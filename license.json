@@ -1,4 +1,17 @@
 {
+  "777": {
+    "id": "777",
+    "username": "777",
+    "password": "nelu9988",
+    "createdAt": "2026-05-22T08:43:24.484Z",
+    "expiresAt": "2026-06-19T08:43:24.484Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1314595437486805045",
+    "user": null,
+    "paused": null
+  },
   "kru1337": {
     "id": "kru1337",
     "username": "kru1337",
