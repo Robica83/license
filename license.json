@@ -5,11 +5,11 @@
     "password": "nelu9988",
     "createdAt": "2026-05-22T08:43:24.484Z",
     "expiresAt": "2036-06-16T08:43:24.484Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "A1B5DB31EB72FD532512D8FE683C5829C7D46C1711E352EFED0EEF09A39E79CA",
     "blacklist": null,
     "creator": "1314595437486805045",
-    "user": null,
+    "user": "1092167543017459822",
     "paused": null
   },
   "kru1337": {
