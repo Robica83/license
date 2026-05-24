@@ -41,7 +41,7 @@
   "admin": {
     "id": "admin",
     "username": "admin",
-    "password": "sefu",
+    "password": "12345",
     "createdAt": "2026-05-21T18:39:02.954Z",
     "expiresAt": "2036-05-18T18:39:02.954Z",
     "used": true,
