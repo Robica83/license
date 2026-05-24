@@ -18,11 +18,11 @@
     "password": "David112233.123",
     "createdAt": "2026-05-21T18:26:33.101Z",
     "expiresAt": "2026-06-19T18:26:33.101Z",
-    "used": true,
-    "hwid": "2B8C794A01C12346382817B7125643972BA2C960C0D743A0FBA196902080DFDA",
+    "used": false,
+    "hwid": null,
     "blacklist": null,
     "creator": "1314595437486805045",
-    "user": "1482812424955363430",
+    "user": "",
     "paused": null
   },
   "YutiK0K": {
