@@ -20,7 +20,7 @@
     "expiresAt": "2026-06-19T18:26:33.101Z",
     "used": false,
     "hwid": null,
-    "blacklist": true,
+    "blacklist": null,
     "creator": "1314595437486805045",
     "user": null,
     "paused": null
