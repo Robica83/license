@@ -1,6 +1,8 @@
 {
   "777": {
     "id": "777",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-22T08:43:24.484Z",
     "expiresAt": "2036-06-16T08:43:24.484Z",
     "used": true,
@@ -12,6 +14,8 @@
   },
   "Tudorica1337": {
     "id": "Tudorica1337",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-24T20:21:12.413Z",
     "expiresAt": "2036-05-21T20:21:12.413Z",
     "used": true,
@@ -23,6 +27,8 @@
   },
   "admin": {
     "id": "admin",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-21T18:39:02.954Z",
     "expiresAt": "2036-05-18T18:39:02.954Z",
     "used": true,
@@ -34,6 +40,8 @@
   },
   "kru1337": {
     "id": "kru1337",
+    "username": null,
+    "password": null,
     "createdAt": "2026-05-21T18:26:33.101Z",
     "expiresAt": "2026-06-19T18:26:33.101Z",
     "used": false,
@@ -49,11 +57,11 @@
     "password": "Yuti",
     "createdAt": "2026-05-26T14:55:59.856Z",
     "expiresAt": "2036-05-23T14:55:59.856Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "FC4C604E6AD81CDE2833049198B6796B0B6CA317EB6E5CE170D66E2590AB1003",
     "blacklist": null,
     "creator": "1334206843500888116",
-    "user": null,
+    "user": "746005532300542042",
     "paused": null
   }
 }
