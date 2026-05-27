@@ -1,17 +1,4 @@
 {
-  "777": {
-    "id": "777",
-    "username": null,
-    "password": null,
-    "createdAt": "2026-05-22T08:43:24.484Z",
-    "expiresAt": "2036-06-16T08:43:24.484Z",
-    "used": true,
-    "hwid": "A1B5DB31EB72FD532512D8FE683C5829C7D46C1711E352EFED0EEF09A39E79CA",
-    "blacklist": null,
-    "creator": "1314595437486805045",
-    "user": "1092167543017459822",
-    "paused": null
-  },
   "admin": {
     "id": "admin",
     "username": null,
