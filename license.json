@@ -18,11 +18,11 @@
     "password": "Yuti",
     "createdAt": "2026-05-26T14:55:59.856Z",
     "expiresAt": "2036-05-23T14:55:59.856Z",
-    "used": false,
-    "hwid": null,
+    "used": true,
+    "hwid": "FC4C604E6AD81CDE2833049198B6796B0B6CA317EB6E5CE170D66E2590AB1003",
     "blacklist": null,
     "creator": "1334206843500888116",
-    "user": "",
+    "user": "746005532300542042",
     "paused": null
   },
   "Tudorica1337": {
