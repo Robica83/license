@@ -50,5 +50,18 @@
     "creator": "1334206843500888116",
     "user": null,
     "paused": null
+  },
+  "kru1337": {
+    "id": "kru1337",
+    "username": "kru1337",
+    "password": "David112233.123",
+    "createdAt": "2026-05-27T14:02:24.418Z",
+    "expiresAt": "2034-08-13T14:02:24.418Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1334206843500888116",
+    "user": null,
+    "paused": null
   }
 }
