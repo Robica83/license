@@ -50,5 +50,18 @@
     "creator": "1334206843500888116",
     "user": null,
     "paused": null
+  },
+  "admin": {
+    "id": "admin",
+    "username": "admin",
+    "password": "sefu",
+    "createdAt": "2026-05-27T14:01:44.575Z",
+    "expiresAt": "2034-08-13T14:01:44.575Z",
+    "used": false,
+    "hwid": null,
+    "blacklist": null,
+    "creator": "1334206843500888116",
+    "user": null,
+    "paused": null
   }
 }
