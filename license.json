@@ -12,19 +12,6 @@
     "user": "1092167543017459822",
     "paused": null
   },
-  "Tudorica1337": {
-    "id": "Tudorica1337",
-    "username": null,
-    "password": null,
-    "createdAt": "2026-05-24T20:21:12.413Z",
-    "expiresAt": "2036-05-21T20:21:12.413Z",
-    "used": true,
-    "hwid": "258A1871C6E56713FB0308ED2215DB6FDE683BF18248BAC6936531103216D22F",
-    "blacklist": null,
-    "creator": "1334206843500888116",
-    "user": "1382805962343055523",
-    "paused": null
-  },
   "admin": {
     "id": "admin",
     "username": null,
