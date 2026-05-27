@@ -12,19 +12,6 @@
     "user": null,
     "paused": null
   },
-  "admin": {
-    "id": "admin",
-    "username": null,
-    "password": null,
-    "createdAt": "2026-05-21T18:39:02.954Z",
-    "expiresAt": "2036-05-18T18:39:02.954Z",
-    "used": true,
-    "hwid": "42A162404E2D04650911FFE45772BDD119CD597BC73D24A110785F174D9EB1A3",
-    "blacklist": null,
-    "creator": "1334206843500888116",
-    "user": "1310322413262733412",
-    "paused": null
-  },
   "kru1337": {
     "id": "kru1337",
     "username": null,
